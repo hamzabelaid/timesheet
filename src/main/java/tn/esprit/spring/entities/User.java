@@ -64,6 +64,7 @@ public class User implements Serializable {
 
 	//User
 	//update
+	//update2
 	public Long getId() {
 		return id;
 	}
